@@ -1,0 +1,30 @@
+* {
+		background-color: #e8e8ff;	
+		font-family: Helvetica, sans-serif;
+		padding: 0;
+		margin: 0;
+				}
+
+h1 {
+				color: #090b13;
+				text-align: center;
+				padding: 20px;
+				}
+				
+h3 {
+				color: #090b13;
+				padding: 10px;
+				}
+
+p {
+			padding: 10px;	
+				}
+
+.quote {
+				font-weight: bold;
+				}
+
+img {
+				width: 300px;
+				margin: 10px;
+				}
